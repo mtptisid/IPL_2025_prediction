@@ -39,17 +39,9 @@ Created by **Siddharamayya**, this project showcases a blend of data science and
 ## Demo
 
 ### Screenshots
-*Add screenshots here to showcase the UI, form, result boxes, and footer. Suggested captures:*
-- *Home page with form and date/time display.*
-- *Prediction results with confetti animation.*
-- *Mobile view showing stacked layout.*
-- *Footer with your name and website link.*
 
-Example placeholder:
-```markdown
-![Home Page](screenshots/home-page.png)
-![Prediction Results](screenshots/results.png)
-```
+![https://github.com/user-attachments/assets/f67d733c-4f6d-497b-945b-8bb6ca153d8c](https://github.com/user-attachments/assets/f67d733c-4f6d-497b-945b-8bb6ca153d8c)
+
 
 ### Videos
 Watch short demos showcasing the IPL Match Predictor’s interactive UI and predictions:
