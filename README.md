@@ -40,8 +40,9 @@ Created by **Siddharamayya**, this project showcases a blend of data science and
 
 ### Screenshots
 
-![https://github.com/user-attachments/assets/f67d733c-4f6d-497b-945b-8bb6ca153d8c](https://github.com/user-attachments/assets/f67d733c-4f6d-497b-945b-8bb6ca153d8c)
+<img width="1437" alt="Screenshot 2025-06-03 at 3 53 03 PM" src="https://github.com/user-attachments/assets/117a293e-e8ef-4ea7-a9b3-ac6ed777bef7" />
 
+<img width="1424" alt="Screenshot 2025-06-03 at 3 36 24 PM" src="https://github.com/user-attachments/assets/993a1041-4718-4446-9725-ba3d7f5e74b7" />
 
 ### Videos
 Watch short demos showcasing the IPL Match Predictor’s interactive UI and predictions:
