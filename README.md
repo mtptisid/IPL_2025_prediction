@@ -50,10 +50,10 @@ Watch short demos showcasing the IPL Match Predictor’s interactive UI and pred
 
 <div style="display: flex; gap: 25px;">
   <a href="https://www.youtube.com/shorts/K7vD_UDO03Y" target="_blank">
-    <img src="https://img.youtube.com/vi/K7vD_UDO03Y/default.jpg" alt="Demo Video 1" style="width: 398px; height: 689px;">
+    <img src="https://github.com/user-attachments/assets/f67d733c-4f6d-497b-945b-8bb6ca153d8c" alt="Demo Video 1" style="width: 398px; height: 689px;">
   </a>
   <a href="https://www.youtube.com/shorts/DjZiZJXs9mE" target="_blank">
-    <img src="https://img.youtube.com/vi/DjZiZJXs9mE/default.jpg" alt="Demo Video 2" style="width: 398px; height: 689px;">
+    <img src="https://github.com/user-attachments/assets/f67d733c-4f6d-497b-945b-8bb6ca153d8c" alt="Demo Video 2" style="width: 398px; height: 689px;">
   </a>
 </div>
 
@@ -67,8 +67,8 @@ Watch short demos showcasing the IPL Match Predictor’s interactive UI and pred
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ipl-match-predictor.git
-   cd ipl-match-predictor
+   git clone https://github.com/mtptisid/IPL_score_prediction
+   cd IPL_score_prediction
    ```
 
 2. **Set Up a Virtual Environment** (recommended):
