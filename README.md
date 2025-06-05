@@ -34,7 +34,8 @@ Created by **Siddharamayya**, this project showcases a blend of data science and
 - **Robust Backend**:
   - Flask app with JSON serialization fix for `float32` data.
   - Pre-trained models (`winner_model.joblib`, `first_score_model.joblib`, etc.) for predictions.
-  - Data sourced from `ipl_data.csv`.
+  - Data sourced from kaggle.
+
 
 ## Demo
 
@@ -47,12 +48,12 @@ Created by **Siddharamayya**, this project showcases a blend of data science and
 ### Videos
 Watch short demos showcasing the IPL Match Predictor’s interactive UI and predictions:
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 25px;">
   <a href="https://www.youtube.com/shorts/K7vD_UDO03Y" target="_blank">
-    <img src="https://img.youtube.com/vi/K7vD_UDO03Y/default.jpg" alt="Demo Video 1" style="width: 120px; height: 90px;">
+    <img src="https://img.youtube.com/vi/K7vD_UDO03Y/default.jpg" alt="Demo Video 1" style="width: 398px; height: 689px;">
   </a>
   <a href="https://www.youtube.com/shorts/DjZiZJXs9mE" target="_blank">
-    <img src="https://img.youtube.com/vi/DjZiZJXs9mE/default.jpg" alt="Demo Video 2" style="width: 120px; height: 90px;">
+    <img src="https://img.youtube.com/vi/DjZiZJXs9mE/default.jpg" alt="Demo Video 2" style="width: 398px; height: 689px;">
   </a>
 </div>
 
