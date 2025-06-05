@@ -38,8 +38,9 @@ Created by **Siddharamayya**, this project showcases a blend of data science and
 
 ## DataSets and Notebooks
 
-![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle&link=https://www.kaggle.com/datasets/sid1397/ipl-records-2008-2025)
-![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle&link=https://www.kaggle.com/code/sid1397/ipl-2025-final-predictions)
+[![Kaggle Dataset for IPL 2008 - 2025](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/sid1397/ipl-records-2008-2025)
+
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/sid1397/ipl-2025-final-predictions)
 
 ## Demo
 
