@@ -177,10 +177,6 @@ Contributions are welcome! To contribute:
 
 Please ensure code follows PEP 8 and includes tests where applicable. For major changes, open an issue to discuss first.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
 - **Creator**: Siddharamayya ([siddharamayya.in](https://siddharamayya.in))
